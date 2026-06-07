@@ -56,3 +56,5 @@ JWT_SECRET=your_jwt_secret_token
     ```bash
     npm start
     ```
+
+  ---
